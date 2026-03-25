@@ -120,3 +120,15 @@ Faça o upload do código para o Arduino.
 Abra o Monitor Serial com baud rate de 9600.
 
 Utilize o potenciômetro para simular o nível do reservatório.
+
+Documento do projeto:
+
+https://docs.google.com/document/d/1WS32LsIGwLMFC5L-qqH8OWpgIgqaM2XftlTYSdwr6u0/edit?tab=t.0
+
+Projeto no tinkerCad:
+
+https://www.tinkercad.com/things/45Pz5gkUCrZ-trabalho-renan/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
+
+Projeto no Trello:
+
+https://trello.com/b/Hk3IEbvz/hydro-sensor
